@@ -1,4 +1,3 @@
-package excercises;
 public class Concat {
 	
 	public static void main(String[] args) {
